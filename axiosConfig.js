@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-axios.defaults.baseURL = 'http://localhost:3000'; // Replace with your backend's URL
+axios.defaults.baseURL = 'https://insta-backend-woad.vercel.app/'; // Replace with your backend's URL
 
 export default axios;
 
